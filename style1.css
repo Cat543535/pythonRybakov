@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+h1, p {
+    color: #333;
+}
+
+#main-title {
+    font-size: 3em;
+}
+
+.content {
+    line-height: 1.5;
+}
